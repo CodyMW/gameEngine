@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+C:/Strawberry/c/share/cmake-3.29/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeCInformation.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeDependentOption.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CheckLibraryExists.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/FindThreads.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/GNUInstallDirs.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/cmwal/Documents/Github/Aperias/build/CMakeFiles/3.29.2/CMakeCCompiler.cmake
+C:/Users/cmwal/Documents/Github/Aperias/extern/glfw/CMake/glfw3Config.cmake.in
+C:/Users/cmwal/Documents/Github/Aperias/extern/glfw/CMakeLists.txt

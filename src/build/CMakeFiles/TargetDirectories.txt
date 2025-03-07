@@ -1,0 +1,5 @@
+C:/Users/cmwal/Documents/Github/Aperias/src/build/CMakeFiles/GameEngine.dir
+C:/Users/cmwal/Documents/Github/Aperias/src/build/CMakeFiles/GameEngine_App.dir
+C:/Users/cmwal/Documents/Github/Aperias/src/build/CMakeFiles/INSTALL.dir
+C:/Users/cmwal/Documents/Github/Aperias/src/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/cmwal/Documents/Github/Aperias/src/build/CMakeFiles/ZERO_CHECK.dir

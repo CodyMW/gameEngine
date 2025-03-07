@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cmwal\Documents\Github\Aperias\src\build\CMakeFiles\68639d72309b095c6baef1cfcb9329f5\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{397BB616-15B9-3B29-91A8-4E591B6F664A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

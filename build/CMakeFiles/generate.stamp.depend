@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/FindOpenGL.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/Windows.cmake
+C:/Strawberry/c/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+C:/Users/cmwal/Documents/Github/Aperias/CMakeLists.txt
+C:/Users/cmwal/Documents/Github/Aperias/build/CMakeFiles/3.29.2/CMakeCXXCompiler.cmake
+C:/Users/cmwal/Documents/Github/Aperias/build/CMakeFiles/3.29.2/CMakeRCCompiler.cmake
+C:/Users/cmwal/Documents/Github/Aperias/build/CMakeFiles/3.29.2/CMakeSystem.cmake

@@ -5,10 +5,55 @@
   - [x] GLFW (for window creation and input)
   - [x] GLAD/GLEW (for OpenGL function loading)
   - [ ] GLM (for mathematics)
-- [ ] Create basic project structure
-- [ ] Set up build system (CMake configuration)
-- [ ] Create initial entry point (main.cpp)
-- [ ] Test compilation environment
+- [x] Create basic project structure
+  - [x] `/src` - Source code directory
+    - [x] `/core` - Core engine functionality
+      - [x] `/window` - Window management
+      - [x] `/renderer` - Rendering system
+      - [x] `/input` - Input handling
+      - [x] `/event` - Event system
+    - [x] `/ecs` - Entity Component System
+      - [x] `/entity` - Entity management
+      - [x] `/component` - Component implementations
+      - [x] `/system` - System implementations
+    - [x] `/graphics` - Graphics systems
+      - [x] `/shader` - Shader programs
+      - [x] `/texture` - Texture management
+      - [x] `/mesh` - Mesh handling
+      - [x] `/camera` - Camera systems
+      - [x] `/material` - Material system
+    - [x] `/physics` - Physics engine
+      - [x] `/collision` - Collision detection
+      - [x] `/dynamics` - Physics simulation
+    - [x] `/audio` - Audio system
+    - [x] `/resource` - Resource management
+    - [x] `/scene` - Scene management
+    - [x] `/ui` - User interface system
+    - [x] `/utils` - Utility functions and helpers
+      - [x] `/math` - Math utilities
+      - [x] `/debug` - Debugging tools
+      - [x] `/profiler` - Performance profiling
+  - [x] `/include` - Public header files
+  - [x] `/extern` - External dependencies
+    - [x] `/glfw` - GLFW library
+    - [x] `/glad` - GLAD/GLEW library
+    - [x] `/glm` - GLM math library
+    - [x] `/assimp` - Assimp model loading
+    - [x] `/freetype` - FreeType text rendering
+    - [x] `/imgui` - ImGui for debugging UI
+  - [x] `/assets` - Engine assets
+    - [x] `/shaders` - Shader files
+    - [x] `/textures` - Texture files
+    - [x] `/models` - 3D model files
+    - [x] `/fonts` - Font files
+    - [x] `/audio` - Audio files
+  - [x] `/examples` - Example projects using the engine
+  - [x] `/tests` - Engine test suite
+  - [x] `/docs` - Documentation
+  - [x] `/build` - Build output directory
+- [x] Set up build system (CMake configuration)
+- [x] Create initial entry point (main.cpp)
+- [x] Test compilation environment
 
 ## Core Engine Development
 - [ ] Create window management system with GLFW
